@@ -10,8 +10,8 @@ The project covers the working(i.e; searching) of inverted index.
     2.1: return the apperance.
 
 # IMPLEMENTED BY:
-https://github.com/SyedIzzatUllah
-Mali@students.uit.edu
-Skhan@students.uit.edu
+1) https://github.com/SyedIzzatUllah
+2) Mali@students.uit.edu
+3) Skhan@students.uit.edu
 
 
