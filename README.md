@@ -11,5 +11,7 @@ The project covers the working(i.e; searching) of inverted index.
 
 # IMPLEMENTED BY:
 https://github.com/SyedIzzatUllah
+Mali@students.uit.edu
+Skhan@students.uit.edu
 
 
