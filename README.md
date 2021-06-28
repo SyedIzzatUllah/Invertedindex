@@ -13,4 +13,4 @@ The project covers the working(i.e; searching) of inverted index.
 1) https://github.com/SyedIzzatUllah
 
 
-
+ 
