@@ -9,7 +9,7 @@ class Appearance:
     #represnts the appearnce anf frequency of the word in a document.
     def __init__(self, docId, frequency):
         self.docId = docId
-        self.frequency = frequency
+        self.frequency = frequency 
         
     #string represntion  
     def __repr__(self):
