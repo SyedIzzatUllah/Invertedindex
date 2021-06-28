@@ -31,7 +31,7 @@ class Database:
     def add(self, document):
         return self.db.update({document['id']: document})
 #apperantly removes the document from database
-    def remove(self, document):
+    def remove(self, document): 
         
         return self.db.pop(document['id'], None)
     
