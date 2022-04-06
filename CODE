@@ -31,7 +31,7 @@ class Database:
     
 #now, the inverted index class
 
-class InvertedIndex:
+class InvertedIndex:  
     def __init__(self, db):
         self.index = dict()
         self.db = db
