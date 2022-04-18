@@ -4,7 +4,7 @@
 # In[2]:
 
 
-import re 
+import re  
 class Appearance:
     #represnts the appearnce anf frequency of the word in a document.
     def __init__(self, docId, frequency):
