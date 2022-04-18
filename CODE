@@ -8,7 +8,7 @@ class Appearance:
     #string represntion  
     def __repr__(self): 
 
-        return str(self.__dict__)
+        return str(self.__dict__) 
 #database shows the index words
 class Database:
     def __init__(self):
