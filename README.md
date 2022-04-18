@@ -10,7 +10,7 @@ The project covers the working(i.e; searching) of inverted index.
     2.1: return the apperance.
 
 # IMPLEMENTED BY:
-1) https://github.com/SyedIzzatUllah
+1) https://github.com/SyedIzzatUllah 
 
 
  
