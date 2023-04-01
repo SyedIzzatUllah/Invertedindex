@@ -9,7 +9,7 @@ The project covers the working(i.e; searching) of inverted index.
 2) searches the ENTERED WORD(S)       
     2.1: return the apperance.
 
-# IMPLEMENTED BY:
+# IMPLEMENTED BY: 
 1) https://github.com/SyedIzzatUllah 
 
 
