@@ -7,7 +7,7 @@ The project covers the working(i.e; searching) of inverted index.
     1.1: saves the index into database.
     1.2: uptades the inverted index.
 2) searches the ENTERED WORD(S)       
-    2.1: return the apperance.
+    2.1: return the apperance. 
 
 # IMPLEMENTED BY: 
 1) https://github.com/SyedIzzatUllah 
